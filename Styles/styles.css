@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #af9f8f;
+}
+
+#Title{
+    text-align: center;
+    background-image: url('/Img/fondoH1.jpg');
+    background-size: cover;
+    height: 41rem;
+    font-size: 10rem;
+    padding-top: 18rem;
+    overflow: hidden;
+}
+
+#about{
+    text-shadow: 2rem;
+    padding-left: 30rem;
+    font-size: 3rem;
+}
+
+.parrafo{
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 2rem;
+}
+
+footer{
+    background-color: #500000;
+}
